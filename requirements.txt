@@ -1,6 +1,5 @@
 Flask==3.0.3
 cvzone==1.6.1
-numpy
 opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
